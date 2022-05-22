@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\dev\project\laba_2_4\laba_2_4\main.cpp(99,49): warning C4305: аргумент: усечение из "double" в "float"
+C:\dev\project\laba_2_4\laba_2_4\main.cpp(132,37): warning C4267: =: преобразование из "size_t" в "GLint"; возможна потеря данных
+  pipeline.cpp
+C:\dev\project\laba_2_4\laba_2_4\pipeline.cpp(29,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\dev\project\laba_2_4\laba_2_4\pipeline.cpp(29,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\dev\project\laba_2_4\laba_2_4\pipeline.cpp(30,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\dev\project\laba_2_4\laba_2_4\pipeline.cpp(30,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\dev\project\laba_2_4\laba_2_4\pipeline.cpp(31,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\dev\project\laba_2_4\laba_2_4\pipeline.cpp(31,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\dev\project\laba_2_4\laba_2_4\pipeline.cpp(65,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  laba_2_4.vcxproj -> C:\dev\project\laba_2_4\x64\Debug\laba_2_4.exe
