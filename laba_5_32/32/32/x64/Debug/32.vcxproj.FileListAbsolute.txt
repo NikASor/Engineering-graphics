@@ -1,0 +1,2 @@
+C:\dev\project\laba_4_32\32\32\x64\Debug\32.vcxproj.CopyComplete
+C:\dev\project\laba_5_32\32\32\x64\Debug\32.vcxproj.CopyComplete
