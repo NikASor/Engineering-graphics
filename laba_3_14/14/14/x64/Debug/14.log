@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\dev\project\laba_3_14\14\14\main.cpp(97,49): warning C4305: аргумент: усечение из "double" в "float"
+C:\dev\project\laba_3_14\14\14\main.cpp(134,37): warning C4267: =: преобразование из "size_t" в "GLint"; возможна потеря данных
+  14.vcxproj -> C:\dev\project\laba_3_14\14\x64\Debug\14.exe
